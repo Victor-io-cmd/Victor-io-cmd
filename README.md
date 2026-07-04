@@ -5,8 +5,8 @@ I'm particularly drawn to theoretical mechanics and space dynamics.
 
 - 🔭 I’m currently working on: gum-calc — a calculation engine that automates GUM uncertainty propagation for my lab reports: symbolic differentiation with SymPy, Welch-Satterthwaite widening factor and french LaTeX output.
 
-- 🌱 I’m currently learning : SymPy, SciPy, scientific workflow automation. 
--⚡Fun fact: Fluent in French and Spanish.
+- 🌱 I’m currently learning : SymPy, SciPy, scientific workflow automation.
+- ⚡Fun fact: Fluent in French and Spanish.
 - 📫 How to reach me: using my linkedin account or my instagram acount. 
 
 <!--
