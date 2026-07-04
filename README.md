@@ -3,10 +3,11 @@ Hi, I'm Victorio 👋
 L3 Physics student at UPEC (Université Paris-Est Créteil), class representative for the program. My goal: to become a professor and researcher.
 I'm particularly drawn to theoretical mechanics and space dynamics. 
 
-🔭 I’m currently working on: gum-calc — a calculation engine that automates GUM uncertainty propagation for my lab reports: symbolic differentiation with SymPy, Welch-Satterthwaite widening factor and french LaTeX output.
-🌱 I’m currently learning : SymPy, SciPy, scientific workflow automation. 
-⚡ Fun fact: Fluent in French and Spanish. 
-📫 How to reach me: using my linkedin account or my instagram acount. 
+- 🔭 I’m currently working on: gum-calc — a calculation engine that automates GUM uncertainty propagation for my lab reports: symbolic differentiation with SymPy, Welch-Satterthwaite widening factor and french LaTeX output.
+
+-🌱 I’m currently learning : SymPy, SciPy, scientific workflow automation. 
+-⚡ Fun fact: Fluent in French and Spanish. 
+- 📫 How to reach me: using my linkedin account or my instagram acount. 
 
 <!--
 **Victor-io-cmd/Victor-io-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
