@@ -1,11 +1,11 @@
 Hi, I'm Victorio 👋
 
-L3 Physics student at UPEC (Université Paris-Est Créteil), class representative for the program. My goal: to become a professor and researcher.
+L3 Physics student at UPEC (Université Paris-Est Créteil). My goal: to become a professor and researcher.
 I'm particularly drawn to theoretical mechanics and space dynamics. 
 
 - 🔭 I’m currently working on: gum-calc — a calculation engine that automates GUM uncertainty propagation for my lab reports: symbolic differentiation with SymPy, Welch-Satterthwaite widening factor and french LaTeX output.
 
-- 🌱 I’m currently learning : SymPy, SciPy, scientific workflow automation.
+- 🌱 I’m currently learning : working and coding with AI. 
 - ⚡Fun fact: Fluent in French and Spanish.
 - 📫 How to reach me: using my linkedin account or my instagram acount. 
 
