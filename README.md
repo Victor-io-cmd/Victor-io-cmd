@@ -7,7 +7,7 @@ I'm particularly drawn to theoretical mechanics and space dynamics.
 
 - 🌱 I’m currently learning : working and coding with AI. 
 - ⚡Fun fact: Fluent in French and Spanish.
-- 📫 How to reach me: using my linkedin or my instagram account. 
+- 📫 How to reach me: using my linkedin account. 
 
 <!--
 **Victor-io-cmd/Victor-io-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
